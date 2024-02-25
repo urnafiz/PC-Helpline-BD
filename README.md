@@ -1,7 +1,7 @@
 # PC Helpline BD
 PC Helpline BD | Bangladeshi technology blog
 
-The journey was started in 2011 with the slogan "Know Yourself, Know Others"
+The journey started in 2011 with the slogan "Know Yourself, Know Others"
 
 ## Snapshots
 - [May 18, 2011](https://web.archive.org/web/20110518231107/pchelplinebd.com)
